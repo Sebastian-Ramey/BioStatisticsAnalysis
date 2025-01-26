@@ -7,7 +7,7 @@ execute:
   keep-md: true
 ---
 
-## Palmer Penguins 
+## Palmer Penguins
 
 Penguins can swim well.
 
